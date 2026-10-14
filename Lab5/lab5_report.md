@@ -18,6 +18,12 @@ Pylint, Bandit, and Flake8.
 | Code-quality issues | Pylint | Used enumerate and simplified conditional statements |
 | Formatting violations | Flake8 | Fixed spacing, blank lines, comments, and line length |
 
+## Before-fix Results
+
+- Pylint: 5.65/10
+- Bandit: 4 findings (2 High, 2 Low)
+- Flake8: 4 findings
+
 ## Final Results
 
 - Pylint: 10.00/10
